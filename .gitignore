@@ -71,6 +71,3 @@ properties/secrets.properties
 
 # vendor
 vendor/
-
-
-!bin/dependency-tree-diff.jar
